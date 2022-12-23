@@ -1,0 +1,8 @@
+export const GET_LISTS = 'GET_LISTS'
+export const CREATE_LIST = 'CREATE_LIST'
+export const UPDATE_List_BY_ID = 'UPDATE_List_BY_ID'
+export const DELETE_LIST_BY_ID = 'DELETE_LIST_BY_ID'
+export const GET_TODOS = 'GET_TODOS'
+export const CREATE_TODO = 'CREATE_TODO'
+export const UPDATE_TODO_BY_ID = 'UPDATE_TODO_BY_ID'
+export const DELETE_TODO_BY_ID = 'DELETE_TODO_BY_ID'
